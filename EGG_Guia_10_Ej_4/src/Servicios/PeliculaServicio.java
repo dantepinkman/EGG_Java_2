@@ -68,8 +68,6 @@ public class PeliculaServicio {
              System.out.println("Ordenando Alfabeticamente por Director: Titulo: " + pelicula.getTitulo() + ", Director: " + pelicula.getDirector() + ", Duracion: " + pelicula.getDuracion());
         }
         
-        
-        
     }
     
     
